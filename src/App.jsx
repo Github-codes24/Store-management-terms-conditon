@@ -52,7 +52,7 @@ const termsSections = [
   },
   {
     title: '13. Contact and Customer Complaints',
-    text: 'For questions, billing issues, product concerns, or complaints, please contact Om Maruti Mart at Etapalli,chhattisgarh ; CUSTOMER SUPPORT : 827578839 ; or CUSTOMER SUPPORT EMAIL : adityarajkondawar9@gmail.com. If applicable, grievance contact details will be provided in accordance with legal requirements.'
+    text: 'For questions, billing issues, product concerns, or complaints, please contact Om Maruti Mart at Etapalli,chhattisgarh ; CUSTOMER SUPPORT : 8275788392 ; or CUSTOMER SUPPORT EMAIL : adityarajkondawar9@gmail.com. If applicable, grievance contact details will be provided in accordance with legal requirements.'
   },
   {
     title: '14. Account Deletion',
@@ -107,7 +107,7 @@ const privacySections = [
   },
   {
     title: '12. Contact Information',
-    text: 'For privacy-related questions or requests, please contact Om Maruti Mart at Etapalli,chhattisgarh ; CUSTOMER SUPPORT : 827578839 ; or CUSTOMER SUPPORT EMAIL : adityarajkondawar9@gmail.com . Any required grievance officer or designated privacy contact details should be added here where applicable.'
+    text: 'For privacy-related questions or requests, please contact Om Maruti Mart at Etapalli,chhattisgarh ; CUSTOMER SUPPORT : 8275788392 ; or CUSTOMER SUPPORT EMAIL : adityarajkondawar9@gmail.com . Any required grievance officer or designated privacy contact details should be added here where applicable.'
   }
 ];
 
@@ -196,7 +196,7 @@ function App() {
         <footer className="site-footer">
           <div>
              <strong>Om Maruti Mart</strong>
-            <span>Customer support: adityarajkondawar9@gmail.com | 827578839</span>
+            <span>Customer support: adityarajkondawar9@gmail.com | 8275788392</span>
           </div>
           <div className="footer-links">
             <Link to="/terms-and-conditions">Terms</Link>
